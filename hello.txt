@@ -1,2 +1,2 @@
-Hello
+This code is used for Gesture Recognition using a Nintendo Wiimote.
 
